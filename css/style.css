@@ -38,6 +38,7 @@ h1 {
 h1 a:link, h1 a:visited {
   color: rgb(152,173,166);
   text-decoration: none;
+	transition: 0.5s ease;
 }
 
 h1 a:hover {
@@ -76,8 +77,8 @@ h2 {
 }
 
 #press img {
-	border-color: rgb(107	128	122);
 	border-color: rgb(204	204	204);
+	transition: 0.5s ease;
 	padding: 1px;
 }
 
